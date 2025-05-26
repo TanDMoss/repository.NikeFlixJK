@@ -47,8 +47,8 @@ def update_version():
         with open(index_html_path, "r") as file:
             content = file.read()
         # Replace the version number in the href link
-        new_content, count = re.subn(r'NikeFlix-\d+\.\d+\.\d+\.zip',
-                                     f'NikeFlix-{version}.zip', content)
+        new_content, count = re.subn(r'NikeFlix-JK-Edition\d+\.\d+\.\d+\.zip',
+                                     f'NikeFlix-JK-Edition-{version}.zip', content)
         if count > 0:
             with open(index_html_path, "w") as file:
                 file.write(new_content)
