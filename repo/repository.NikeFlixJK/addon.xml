@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.NikeFlixJK" name="NikeFlix JK Edition repository" version="3.0.6" provider-name="TanDMoss">
+<addon id="repository.NikeFlixJK" name="NikeFlix JK Edition repository" version="3.0.7" provider-name="TanDMoss">
     <extension point="xbmc.addon.repository" name="NikeFlix JK Edition repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TanDMoss/repository.NikeFlixJK/main/repo/zips/addons.xml</info>

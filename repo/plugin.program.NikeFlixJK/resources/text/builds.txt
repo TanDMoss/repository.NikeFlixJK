@@ -1,9 +1,9 @@
 id="plugin.program.NikeFlixJK"
-version="3.0.6"
+version="3.0.7"
 zip=""
 
 name="NikeFlix Wizard JK Edition"
-version="3.0.6"
+version="3.0.7"
 url="https://dl.dropboxusercontent.com/scl/fi/rny156780vfbaq8xvgv5a/nikeflixwizard-jk-edition.zip?rlkey=wn6rq2qm55kp968oxbr51xjr7&st=qwag2nnp&dl=0"
 minor="http://"
 gui="url.to.guisettings"
