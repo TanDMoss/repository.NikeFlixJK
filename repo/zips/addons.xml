@@ -413,7 +413,7 @@
             <clearlogo>resources/media/clearlogo.png</clearlogo>
         </assets>
     </extension>
-</addon><addon id="plugin.program.nikeflix-jk-edition" name="NikeFlix" version="3.0.1" provider-name="TanDMoss">
+</addon><addon id="plugin.program.nikeflix-jk-edition" name="NikeFlix" version="3.0.3" provider-name="TanDMoss">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
